@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ret4_cards/card.dart';
+import 'package:app04/card.dart';
 
 void main() {
   runApp(const MyApp());
